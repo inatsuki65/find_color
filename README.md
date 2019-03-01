@@ -7,13 +7,13 @@
 
 検出したい色はソースコード中のs_min,s_maxを調整することで変えられます。
 
-## find_bgrではRGB色空間を使って青を検出してます。
+## find_bgr.cppではRGB色空間を使って青を検出してます。
 
 ** RGB色空間 とOpenCV **
 
   OpenCVでは、色の順番がBGR（青、緑、赤）になる。
 
-## find_hsvではHSV色空間を使って青色を検出してます。
+## find_hsv.cppではHSV色空間を使って青色を検出してます。
 
 ** HSV色空間 OpenCVで取り得る値の範囲 **
 

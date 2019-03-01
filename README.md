@@ -1,4 +1,4 @@
-# rosとOpenCVを使った色検出のプログラム
+# ROSとOpenCVを使った色検出のプログラム
 
 [![](https://img.youtube.com/vi/a0Ebx5SHyJU/0.jpg)](https://www.youtube.com/watch?v=a0Ebx5SHyJU)
 

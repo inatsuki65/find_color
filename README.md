@@ -1,4 +1,7 @@
-# rosとOpenCVを使った色検出のプログラム
+# ROSとOpenCVを使った色検出のプログラム
+
+[![](https://img.youtube.com/vi/a0Ebx5SHyJU/0.jpg)](https://www.youtube.com/watch?v=a0Ebx5SHyJU)
+
 
 検出したい色はソースコード中のs_min,s_maxを調整することで変えられます。
 
@@ -21,5 +24,3 @@
 - V (Channel3)
 
  0～255の範囲。255がV=1.0に相当。
-
-"/home/hirota/catkin_ws/src/for_blog/find_color/lena.jpg"の部分は画像のある絶対パスを打ち込む。
